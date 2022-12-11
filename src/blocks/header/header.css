@@ -1,0 +1,14 @@
+.header {
+    margin: auto;
+    max-width: 880px;
+    border-bottom: 1px solid rgb(84, 84, 84, 0.7);
+    display: flex;
+    justify-content: space-between;
+  } 
+
+@media (max-width: 767px) {
+  .header {
+    max-width: 320px;
+    flex-direction: column-reverse;
+  }
+}

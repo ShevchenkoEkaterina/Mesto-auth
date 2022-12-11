@@ -1,0 +1,13 @@
+.register__welcome {
+    font-size: 24px;
+    margin: 60px auto 50px auto;
+    font-weight: 900;
+    line-height: 1.21;
+    color: #fff;
+  }
+
+  @media (max-width: 321px) {
+    .register__welcome {
+      font-size: 20px;
+    }
+  }

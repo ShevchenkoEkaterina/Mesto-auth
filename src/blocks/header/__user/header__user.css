@@ -1,0 +1,10 @@
+.header__user {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 767px) {
+    .header__user {
+        flex-direction: column;
+    }
+  }

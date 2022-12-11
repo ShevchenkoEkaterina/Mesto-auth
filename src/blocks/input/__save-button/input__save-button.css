@@ -1,0 +1,27 @@
+.input__save-button {
+    padding: 0;
+    margin: 18px 20px 37px 30px;
+    width: 358px;
+    min-height: 50px;
+    background: #000000;
+    border-radius: 2px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+  }
+
+.input__save-button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+@media (max-width: 767px) {
+  .input__save-button {
+      margin: 15px auto 25px auto;
+      width: 238px;
+      min-height: 46px;
+  }
+}

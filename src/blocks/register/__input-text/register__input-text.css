@@ -1,0 +1,19 @@
+.register__input-text {
+    margin: 0 auto 30px auto;
+    padding: 0 0 13px 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.2;
+    color: #CCCCCC;
+    border: none;
+    width: 358px;
+    height: 27px;
+    background-color: black;
+    border-bottom: 1px solid #CCCCCC;
+  }
+  
+  @media (max-width: 767px) {
+    .register__input-text {
+      width: 260px;
+    }
+  }

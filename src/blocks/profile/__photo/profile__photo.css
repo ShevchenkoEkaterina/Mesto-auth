@@ -1,0 +1,7 @@
+.profile__photo {
+    position: relative;
+  }
+
+  .profile__photo:hover .profile__button-change-avatar {
+    opacity: 1;
+  }

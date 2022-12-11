@@ -1,0 +1,12 @@
+.input__sign {
+    height: 120px;
+    width: 120px;
+    margin: -20px 0px 32px 155px;
+    padding: 0;
+  }
+
+  @media (max-width: 767px) {
+    .input__sign {
+        margin: 0px 0px 40px 80px;
+    }
+  }

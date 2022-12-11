@@ -1,0 +1,17 @@
+.input__text-error_active {
+  margin: -23px 0 0 36px;
+  font-size: 12px;
+  line-height: 1.21;
+  color: #FF0000;
+  font-weight: 400;
+  height: 28px;
+  position: absolute;
+  top: 55px;
+  left: 0;
+}
+
+@media (max-width: 767px) {
+  .input__text-error_active {
+    margin: -23px 0 0 22px;
+  }
+}

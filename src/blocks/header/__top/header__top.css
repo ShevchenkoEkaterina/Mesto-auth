@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+    .header__top {
+        border-top: 1px solid rgb(84, 84, 84, 0.7);
+        margin: 40px 0 0 0;
+    }
+  }

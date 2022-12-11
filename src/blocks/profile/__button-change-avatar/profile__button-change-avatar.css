@@ -1,0 +1,11 @@
+.profile__button-change-avatar {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 47px;
+  left: 47px;
+  opacity: 0;
+  background: rgba(0,0,0,.2);
+  cursor: pointer;
+}
+

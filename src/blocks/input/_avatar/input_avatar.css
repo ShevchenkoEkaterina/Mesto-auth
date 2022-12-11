@@ -1,0 +1,16 @@
+.input_avatar {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    height: 272px;
+    background: #FFFFFF;
+    border-radius: 10px;
+  }
+
+  @media (max-width: 767px) {
+    .input_avatar {
+      width: 282px;
+    }
+  }

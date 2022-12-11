@@ -1,0 +1,14 @@
+.header__user_link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    color: #A9A9A9;
+    text-decoration: none;
+    margin: 20px 0 0 0;
+  } 
+
+@media (max-width: 767px) {
+  .header__user_link {
+    margin: 20px auto 0 auto;
+  }
+}

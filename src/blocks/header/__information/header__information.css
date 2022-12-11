@@ -1,0 +1,15 @@
+.header__information {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    color: #fff;
+    text-decoration: none;
+    margin: 20px 0 0 0;
+  } 
+
+@media (max-width: 767px) {
+  .header__information {
+    font-size: 14px;
+    margin: 34px 0 0 0;
+  }
+}
